@@ -1,0 +1,17 @@
+body{
+    background-color:grey
+}
+
+.tintuc{
+     background-color:white;
+    font-size:20px;
+     width:60%;
+}
+.tintuc h2{
+    text-align: center;
+    font-size:40px;
+    color:brown;
+}
+.tintuc img{
+    width: 100%;
+}
